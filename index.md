@@ -22,6 +22,7 @@ just sitting around, having a laugh.
 
 ## News
 
+- **{October 2023}** New paper published! This one is a power specturm upper limit with the MWA. We found lots of faint RFI in our data, and the community will have to think about the implications.
 - **[July 2023]** I won an award! Best talk at the MWA 10 year anniversary project meeting.
 
 {% include_relative _includes/publications.md %}
