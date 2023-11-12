@@ -2,7 +2,7 @@ main:
 
   - title: Evidence of Ultrafaint Radio Frequency Interference in Deep 21 cm Epoch of Reionization Power Spectra with the Murchison Wide-field Array
     authors: Michael J. Wilensky, Miguel F. Morales, Bryna J. Hazelton, Pyxie L. Star, Nichole Barry, Ruby Byrne, Christopher H. Jordan, Daniel C. Jacobs, Jonathan C. Pober, Cathryn M. Trott
-    conference: The Astrophysical Journal
+    conference: The Astrophysical Journal <strong>(ApJ)</strong>, 2023
     pdf: https://arxiv.org/pdf/2310.03851.pdf
 
   - title: Why and when to expect Gaussian error distributions in epoch of reionization 21-cm power spectrum measurements
@@ -10,7 +10,7 @@ main:
     conference: Monthly Notices of the Royal Astronomical Society <strong>(MNRAS)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2211.13576.pdf
 
-  - title: :Bayesian jackknife tests with a small number of subsets: application to HERA 21 cm power spectrum upper limits"
+  - title: "Bayesian jackknife tests with a small number of subsets: application to HERA 21 cm power spectrum upper limits"
     authors: Michael J. Wilensky, Fraser Kennedy, Philip Bull, Joshua S. Dillon, The HERA Collaboration
     conference: Monthly Notices of the Royal Astronomical Society <strong>(MNRAS)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2210.17351.pdf
