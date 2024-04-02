@@ -1,5 +1,10 @@
 main:
 
+  - title: "High-dimensional inference of radio interferometer beam patterns I: Parametric model of the HERA beams"
+    authors: Michael J. Wilensky, Jacob Burba, Philip Bull, Hugh Garsden, Katrine A. Glasscock, Nicolas Fagnoni, Eloy de Lera Acedo, David R. DeBoer, Nima Razavi-Ghods
+    conference: Submitted
+    pdf: https://arxiv.org/pdf/2403.13769.pdf
+
   - title: Evidence of Ultrafaint Radio Frequency Interference in Deep 21 cm Epoch of Reionization Power Spectra with the Murchison Wide-field Array
     authors: Michael J. Wilensky, Miguel F. Morales, Bryna J. Hazelton, Pyxie L. Star, Nichole Barry, Ruby Byrne, Christopher H. Jordan, Daniel C. Jacobs, Jonathan C. Pober, Cathryn M. Trott
     conference: The Astrophysical Journal <strong>(ApJ)</strong>, 2023
