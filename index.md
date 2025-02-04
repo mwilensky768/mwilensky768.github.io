@@ -43,3 +43,4 @@ question to develop intuition. Here is a list:
 - [Notes on the Hypoexponential distribution](/assets/memos/Generalized_Erlang.pdf)
 - [A note on the derivative of a matrix determinant](/assets/memos/log_det_gradient.pdf)
 - [A note on singular value decomposition](/assets/memos/SVD_Sparsity.pdf)
+- [A note on different notions of correlation](/assets/memos/covariance_vs_correlation.pdf)
