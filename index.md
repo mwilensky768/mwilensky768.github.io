@@ -33,3 +33,13 @@ University! Looking forward to starting this summer.
 - **{July 2023}** I won an award! Best talk at the MWA 10 year anniversary project meeting.
 
 {% include_relative _includes/publications.md %}
+
+## Notes and Memos
+
+Sometimes I get curious and feel like solving a toy problem or answering a basic
+question to develop intuition. Here is a list:
+
+- [A note on Bayesian mean estimation](/assets/memos/Anomalous_Mean_Scatter_Memo.pdf)
+- [Notes on the Hypoexponential distribution](/assets/memos/Generalized_Erlang.pdf)
+- [A note on the derivative of a matrix determinant](/assets/memos/log_det_gradient.pdf)
+- [A note on singular value decomposition](/assets/memos/SVD_Sparsity.pdf)
