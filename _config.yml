@@ -2,7 +2,7 @@
 title: Mike Wilensky
 position: Postdoc
 affiliation: Jodrell Bank Centre for Astrophysics
-email: michael.wilensky (at) manchester.ac.uk
+email: michael.wilensky (at) mcgill.ca
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -14,6 +14,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # If you don't need one of them, you may delete the corresponding line.
 cv_link: assets/files/CV.pdf
 github_link: https://github.com/mwilensky768
+memo_link: assets/memos/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
