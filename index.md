@@ -45,6 +45,9 @@ University! Looking forward to starting this summer.
 Sometimes I get curious and feel like solving a toy problem or answering a basic
 question to develop intuition. Here is a list:
 
+- [A note on the eigenspectrum of complex covariance matrices and their real representations](/assets/memos/Complex_Matrix_Eigenspectrum.pdf)
+- [A short note on Complex Gaussian random variables](/assets/memos/Real_and_Imaginary_Covariances.pdf)
+- [A note on Gaussian linear models](/assets/memos/GCR_Equation.pdf)
 - [A note on Bayesian mean estimation](/assets/memos/Anomalous_Mean_Scatter_Memo.pdf)
 - [Notes on the Hypoexponential distribution](/assets/memos/Generalized_Erlang.pdf)
 - [A note on the derivative of a matrix determinant](/assets/memos/log_det_gradient.pdf)
