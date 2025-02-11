@@ -5,12 +5,12 @@ layout: homepage
 ## About Me
 
 Hi! I'm Mike Wilensky. Welcome to my home page! I am a radio astronomer working
-at the Jodrell Bank Centre for Astrophysics at the University of Manchester,
-mostly focused on 21-cm cosmology. I'm really into data analysis; it's so cool 
-that we can make instruments that tell us about the world in ways we could never 
-sense on our own. What's more is it all seems to cohere logically! That might 
-say more about our ability to identify logical coherence than our ability to make 
-something logical...At any rate, lately I've been really into Bayesian inference 
+at McGill University under a CITA National Fellowship, mostly focused on 21-cm 
+cosmology. I'm really into data analysis; it's so cool that we can make 
+instruments that tell us about the world in ways we could never sense on our own. 
+What's more is it all seems to cohere logically! That might say more about our 
+ability to identify logical coherence than our ability to make something 
+logical...At any rate, lately I've been really into Bayesian inference 
 i.e. "probability as logic" and applying it to actual data sets. I also really 
 enjoy resistance training, cooking tasty food, hiking, camping, video games, and 
 just sitting around, having a laugh.
