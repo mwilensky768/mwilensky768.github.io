@@ -1,8 +1,13 @@
 main:
 
+  - title: "Bayesian evidence for uncorrected gain factors in Galactic synchrotron template maps"
+    authors: Michael J. Wilensky, Melis O. Irfan, Philip Bull
+    conference: In review
+    pdf: https://arxiv.org/pdf/2409.06770
+
   - title: "High-dimensional inference of radio interferometer beam patterns I: Parametric model of the HERA beams"
     authors: Michael J. Wilensky, Jacob Burba, Philip Bull, Hugh Garsden, Katrine A. Glasscock, Nicolas Fagnoni, Eloy de Lera Acedo, David R. DeBoer, Nima Razavi-Ghods
-    conference: Submitted
+    conference: Royal Astronomical Society Techniques and Instrumentation
     pdf: https://arxiv.org/pdf/2403.13769.pdf
 
   - title: Evidence of Ultrafaint Radio Frequency Interference in Deep 21 cm Epoch of Reionization Power Spectra with the Murchison Wide-field Array
