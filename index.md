@@ -22,6 +22,12 @@ just sitting around, having a laugh.
 
 ## News
 
+- **{September 2024}** Submitted a new paper about potential large calibration
+errors in the widely used Haslam map.
+
+- **{July 2024}** I started my CITA National Fellowship at McGill this month!
+I'm really excited to build some collaborations with folks here.
+
 - **{March 2024}** Our research group at Manchester submitted several papers to
 journals along with a synchronized arxiv submission.
 
