@@ -39,6 +39,7 @@ University! Looking forward to starting this summer.
 - **{July 2023}** I won an award! Best talk at the MWA 10 year anniversary project meeting.
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/services.md %}
 
 ## Notes and Memos
 
