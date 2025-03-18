@@ -46,6 +46,7 @@ University! Looking forward to starting this summer.
 Sometimes I get curious and feel like solving a toy problem or answering a basic
 question to develop intuition. Here is a list:
 
+- [A note on circulant matrices and their eigenmodes](/assets/memos/Circulant_Matrices_are_diagonalized_by_Fourier_Modes.pdf)
 - [A note on the eigenspectrum of complex covariance matrices and their real representations](/assets/memos/Complex_Matrix_Eigenspectrum.pdf)
 - [A short note on Complex Gaussian random variables](/assets/memos/Real_and_Imaginary_Covariances.pdf)
 - [A note on Gaussian linear models](/assets/memos/GCR_Equation.pdf)
