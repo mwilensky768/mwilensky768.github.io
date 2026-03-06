@@ -22,6 +22,14 @@ just sitting around, having a laugh.
 
 ## News
 
+- **{October 2025}** A Master's student that I mentor, Tom Hughes, submitted 
+a paper about a systematic Bayesian analysis of the Hubble tension. 
+
+- **{September 2025}** We published a paper about statisticall inferring radio 
+beam patterns from visibility measurements!
+
+- **{April 2025}** Paper about calibration errors in the Haslam map was accepted!
+
 - **{September 2024}** Submitted a new paper about potential large calibration
 errors in the widely used Haslam map.
 
