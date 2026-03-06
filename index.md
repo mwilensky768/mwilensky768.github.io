@@ -17,7 +17,9 @@ just sitting around, having a laugh.
 
 ## Research Interests
 
-- **Bayesian Inference:** Probability as logic. See a textbook by E.T. Jaynes.
+- **Bayesian Inference:** Probability as logic. See a textbook by E.T. Jaynes for a conceptual introduction.
+I'm particularly interested in applications of hierarchical models, because they
+are a powerful way to incorporate data expertise in model structure.
 - **Cosmology:** What is the structure of the universe on large scales and over vast times?
 
 ## News
