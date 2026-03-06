@@ -1,9 +1,9 @@
 main:
 
   - title: "High dimensional beam inference II: inference of a perturbed HERA beam from simulated visibility data"
-  - authors: Michael J. Wilensky, Philip Bull, Nicolas Fagnoni
-  - conference: Royal Astronomical Society Techniques and Instrumentation
-  - pdf: https://arxiv.org/pdf/2506.20712
+    authors: Michael J. Wilensky, Philip Bull, Nicolas Fagnoni
+    conference: Royal Astronomical Society Techniques and Instrumentation
+    pdf: https://arxiv.org/pdf/2506.20712
 
   - title: "Bayesian evidence for flux scale errors in Galactic synchrotron maps"
     authors: Michael J. Wilensky, Melis O. Irfan, Philip Bull
